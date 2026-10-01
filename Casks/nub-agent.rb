@@ -1,6 +1,6 @@
 cask "nub-agent" do
-  version "0.1.34"
-  sha256 "e1b49ad50c3b560b394b67e35a406cd0a1e6b418b2ae2f94078814214e67b7e9"
+  version "0.1.35"
+  sha256 "6c282d07d12dc170ac588a0cede9fdac3cdf395ec6867d810db283c041475b09"
 
   url "https://download.maiavm.com/archive/Nub-Agent-#{version}-mac-arm64.dmg"
   name "Nub Agent"
